@@ -22,4 +22,4 @@ jobs:
         uses: docker/build-push-action@v5 
         with: 
           push: true  
-          tags: ghcr.io/BoueyreMathieu/ipme-demo:latest 
+          tags: ghcr.io/boueyremathieu/ipme-demo:latest 
